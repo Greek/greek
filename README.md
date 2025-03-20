@@ -1,7 +1,7 @@
 ### welcome 👀
 
-this is me, i do code. learn more about me [here](https://ndy.sh). 
-<br/>
+hi. i'm andreas, i do code. learn more about me [here](https://ndy.sh). 
+
 wanna contact me? my email is the first letter of my first name at my site.
 
 ---
